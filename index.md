@@ -33,7 +33,7 @@ sections:
         title: STACK the Flags
         image: /images/jaga/STF-icon.png
         alt: STACK the Flags icon
-        subtitle: 2 – 4 Dec 2022
+        subtitle: 2 – 4 Nov 2024
         description: "STACK the Flags is back for its second edition! Pit your skills against local and international cybersecurity communities in a 48-hour jeopardy style Capture-the-Flag competition. STACK the Flags offers challenges across 11 different cybersecurity domains such as Binary Exploitation, Cloud, Cryptography and Internet of Things. Capture the most flags and stand a chance to win attractive prizes!" 
         button: Learn More
         url: /2022/stack-the-flags
